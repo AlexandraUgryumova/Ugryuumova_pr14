@@ -1,0 +1,3 @@
+C:\Users\325L-12\Desktop\ \угрюмова и шумкова\2 семестр\учебная практика\Угрюмова практика 14 Фильмотека\obj\Debug\Угрюмова практика 14 Фильмотека.csproj.AssemblyReference.cache
+C:\Users\325L-12\Desktop\ \угрюмова и шумкова\2 семестр\учебная практика\Угрюмова практика 14 Фильмотека\obj\Debug\Угрюмова практика 14 Фильмотека.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-12\Desktop\ \угрюмова и шумкова\2 семестр\учебная практика\Угрюмова практика 14 Фильмотека\obj\Debug\Угрюмова практика 14 Фильмотека.csproj.CoreCompileInputs.cache
